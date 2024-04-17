@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "cstdlib": "cpp",
+        "deque": "cpp",
+        "xlocinfo": "cpp",
+        "random": "cpp",
+        "stack": "cpp",
+        "ios": "cpp"
+    }
+}
